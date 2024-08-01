@@ -1,3 +1,6 @@
+# random-dog-generator
+[Next.jsで猫画像ジェネレーターを作ろう](https://typescriptbook.jp/tutorials/nextjs)の犬版。犬派。
+
 # TypeScript Next.js example
 
 This is a really simple project that shows the usage of Next.js with TypeScript.
